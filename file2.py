@@ -1,1 +1,1 @@
-print('bye to every one')
+print('bye to every two')
