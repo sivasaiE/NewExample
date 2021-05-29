@@ -1,1 +1,1 @@
-print('bye to ever two')
+print('bye to eve one')
